@@ -15,9 +15,9 @@ You can install the required Python packages using pip:
 
 ## Getting Started
 - Clone the repository:
-```git clone https://github.com/your-username/gesture-controlled-mouse.git```
+```git clone https://github.com/Yashovardhan08/gestureMouse.git```
 - Navigate to the project directory:
-```cd gesture-controlled-mouse```
+```cd gestureMouse```
 - Run the application:
-```python gesture_controlled_mouse.py```
+```python HandTrackingModule.py```
 - Place your hand in the camera frame and make the appropriate gestures to control the mouse cursor.
