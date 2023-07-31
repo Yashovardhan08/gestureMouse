@@ -12,3 +12,12 @@ To run this project, you need to have the following dependencies installed:
 
 You can install the required Python packages using pip:
 ```pip install opencv-python mediapipe```
+
+## Getting Started
+- Clone the repository:
+```git clone https://github.com/your-username/gesture-controlled-mouse.git```
+- Navigate to the project directory:
+```cd gesture-controlled-mouse```
+- Run the application:
+```python gesture_controlled_mouse.py```
+- Place your hand in the camera frame and make the appropriate gestures to control the mouse cursor.
