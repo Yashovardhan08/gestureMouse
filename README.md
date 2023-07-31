@@ -21,3 +21,6 @@ You can install the required Python packages using pip:
 - Run the application:
 ```python HandTrackingModule.py```
 - Place your hand in the camera frame and make the appropriate gestures to control the mouse cursor.
+  * Curl your index finger for a left click
+  * Curl your middle finger for a right click
+  * Curl both index and middle finger for double click
